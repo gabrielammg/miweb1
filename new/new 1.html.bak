@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+		<head>
+		
+		<style>
+				h1 {font-family: "Monaco", monospace;}
+				
+				ul {background: #F4F4F4; 
+			border: 1px solid #7C7C7C; 
+			list-style: none; 
+			margin: 0; 
+			padding: 0; 
+			overflow: hidden;}
+			
+				ul li {float: left; 
+			width: 252.4px;} 
+			
+				ul li a {border-left: 1px solid #FFF; 
+				border-right: 1px solid #7C7C7C; 
+				color: #333; 
+				display: block; 
+				padding: .3em; 
+				text-decoration: none;}
+				
+				div ul {list-style-type: none; 
+			margin: 0; 
+			padding: 0; 
+			width: 200px; 
+			background-color: #f1f1f1;} 
+				
+				div li a { 
+			display: block; 
+			color: #000; 
+			padding: 8px 16px; 
+			text-decoration: none;} 
+
+				div li a:hover {background-color: #555; 
+			color: white;} 
+
+
+
+		</style>
+		<title>ejercicio 1</title>
+				<meta name="author" content="Gabriela y Violeta">
+				<meta name="description" content="ELHOMBRE">
+				<meta name="keyword" content="">
+				<meta charset="UTF-8">
+				
+		</head>
+		
+		<body>
+		<a name="ejercicio1"></a>	
+		<h1>ejercicio 1</h1>
+			
+		
+			<ul> 
+			<li><a href="#">Elemento 1</a></li> 
+			<li><a href="#">Elemento 2</a></li> 
+			<li><a href="#">Elemento 3</a></li> 
+			<li><a href="#">Elemento 4</a></li> 
+			<li><a href="#">Elemento 5</a></li> 
+			</ul>
+			
+			<br><br>
+			
+			<h2>ejercicio 2</h2>
+			
+			<div>
+				<ul> 
+				<li><a href="#home">Home</a></li> 
+				<li><a href="#news">News</a></li> 
+				<li><a href="#contact">Contact</a></li> 
+				<li><a href="#about">About</a></li> 
+				</ul> 
+			</div>
+			
+			<h2>ejercicio 3</h2>
+
+			<h3>¿Qué es DIV o para qué sirve?</h3>
+			
+			<p>div de "division" -división . Sirve para crear secciones o agrupar contenidos. Puede contener texto, y/o cero o más elementos en bloque o en linea</p>
+
+			<h3>¿Para qué sirve li a:hover?</h3>
+			<p>La pseudo-clase li a:hover , es sin duda unas de las más utilizadas en CSS, ya que nos permite establecer un segundo estado a cualquier elemento,
+			cuando un usuario interactúa con este, por ejemplo, al pasar el cursor encima.</p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			<a href="#ejercicio1"><img alt="Banner 1" src="banner 1.jpg" width="100%"></a>
+
+
+		</body>
+
+</html>

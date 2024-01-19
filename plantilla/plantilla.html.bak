@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+		<head>
+			<style>			
+			body {color: rgb(134, 130, 204);}
+			
+			header {background-color: rgb(255, 214, 232);}
+			
+			h1 {color: rgb(213, 90, 119);
+			text-align: center;
+			background-color: rgb(255, 214, 232);
+			padding: 15px;
+			font-size: }	
+			
+			main {float: left;
+				width: 70%;
+				background-color: rgb(182, 215, 255);}
+				
+			h2 {color: rgb(76, 147, 251);}
+				
+			main ul {list-style-type:square}
+			
+			p {font-family: "";
+				font-size: px;}
+				
+			nav {background-color: rgb(182, 215, 255); }	
+				
+			nav a {background-color: rgb(182, 215, 255);
+				color: rgb(76, 147, 251);
+				text-decoration: none;}	
+				
+			nav li {
+				display: inline-block;
+				margin: 5px;}
+
+			aside ol {list-style-type: lower-latin}	
+			
+			aside {float: left;
+				width: 30%;
+				background-color: rgb(182, 215, 255);}
+			
+			footer {clear:both;
+				background-color: rgb(214, 215, 255)}
+			
+			
+			</style>
+			<title>PARK SEONGHWA</title>
+				<meta name="author" content="Gabriela y Violeta">
+				<meta name="description" content="ELHOMBRE">
+				<meta name="keyword" content="">
+				<meta charset="UTF-8">
+		
+		</head>
+			
+		<body>
+			<!-- cabecera de la web -->
+			<header>
+			<h1>PARK SEONGHWA</h1>
+			<h1><img alt="Seonghwa 1" src="Seonghwa1.jpg" width="800px"></h1>
+			
+			</header>
+			
+			<!-- menú de navegación -->
+			<nav>
+			<ul>
+			<li><a href="file:///C:/Users/2-BACH-ABD/Desktop/TIC/plantilla.html">INICIO</li>
+			<li><a href="https://ateez.kqent.com/" target="_blank">ATEEZ OFFICIAL PAGE</li>
+			<li><a href="https://www.youtube.com/@ATEEZofficial" target="_blank">ATEEZ YOUTUBE CHANNEL</li>
+			</ul>
+			
+			</nav>
+			
+			<!-- contenido principal -->
+			<main>
+				
+				<section>
+				<h2>???</h2>
+				<p></p>
+				<img alt="Seonghwa4" src="seonghwa4.jpg" width="300px">
+				
+				<table border="4px">
+		
+					<tr>
+					<td colspan= "4">
+					???
+					
+					</td>
+					</tr>
+					<tr>
+					<td><a href=""><img alt="" src="" width="200px"></a></td>
+					<td><a href=""><img alt="" src="" width="200px"></a></td>
+					<td><a href=""><img alt="" src="" width="200px"></a></td>
+					</tr>
+					<tr>
+					<td><a href=""><img alt="" src="" width="200px"></a></td>
+					<td colspan= "2">
+					<a href=""><img alt="" src="" width="200px"></a>
+					</td>
+					<tr>
+					<td><a href=""><img alt="" src="" width="200px"></a></td>
+					<td><a href=""><img alt="" src="" width="200px"></a></td>
+					<td><a href=""><img alt="" src="" width="200px"></a></td>
+					</tr>
+				</table>
+				
+				</section>
+			</main>
+			
+			<!-- contenido lateral -->
+			<aside>
+			<h3>???</h3>
+			<ol>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			</ol>
+			
+			</aside>
+			
+			<!-- pie página -->
+			<footer>
+			<hr></hr>
+			<img alt="" src="" width="200px">
+			<p></p>
+			
+			</footer>
+		
+		
+		</body>
+
+</html>
